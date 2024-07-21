@@ -33,7 +33,7 @@ This repository contains the code to my Personal Portfolio.
 I learned how to use Tailwind and got a bit comfortable with it's utility first capabilities. I also used background-clip property to create a good looking design of my title:
 
 ```HTML
-	<motion.span
+						<motion.span
 							variants={container(
 								0.5
 							)}
@@ -72,7 +72,7 @@ const iconVariants = (duration) => ({
 ```
 
 ```HTML
-	<motion.span
+						<motion.span
 							variants={container(
 								0.5
 							)}
@@ -102,7 +102,9 @@ I personally want to use the skills and tricks I learned making this project to 
 - [Youtube](https://youtube.com) - for tuts and small quirks.
 - [MDN](https://developer.mozilla.org/en-US/) - this website is what I used to make sure I used the correct selectors and available properties.
 - [ChatGPT](https://chatgpt.com) - I used chatgpt for small queries about my code where I couldn't necessarily see issues.
-- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Icons](https://react-icons.github.io/react-icons/) - Used for icons.
+- [bg.ibelick.com](https://bg.ibelick.com/) - Ready-to-use, simply copy and paste into your next project. All snippets crafted with Tailwind CSS and Vanilla CSS for easy integration.
+- [Framer](https://www.framer.com/motion/examples/) - Framer Motion is a simple yet powerful motion library for React.
 
 ## Author
 
